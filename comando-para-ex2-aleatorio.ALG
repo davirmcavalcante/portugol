@@ -19,7 +19,8 @@ Inicio
    para i de aleatorioMin ate aleatorioMax passo incremento faca
       escreval(i)
    fimpara
-   // Note que o para é muito util quando se sabe aonde começa, aonde termina e de quanto em quanto avança. O para será muito útil em vetores (arrays).
+   // Note que o para é muito util quando se sabe aonde começa, aonde termina e de quanto em quanto avança a repetição, ou seja, quando se sabe quantas vezes o código precisa ser executado e como.
+   // Portanto, o para será muito útil em vetores (arrays).
 
 
 Fimalgoritmo
